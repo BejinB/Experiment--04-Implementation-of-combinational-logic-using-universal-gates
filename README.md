@@ -76,7 +76,7 @@ program 2
 ## Timing Diagram
 program 1
 ![image](https://user-images.githubusercontent.com/118367518/211185001-2f21e7a8-c705-4d48-bc5b-84b6f2be87a9.png)
-proggram 2
+program 2
 ![image](https://user-images.githubusercontent.com/118367518/211185013-b7ab6bbe-3879-400b-b062-fdbcc2a21916.png)
 
 ## Result:
